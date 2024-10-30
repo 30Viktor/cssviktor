@@ -1,0 +1,26 @@
+body{background-color: lightgrey;}
+.header{
+    
+    background-color: aqua;
+    text-align: center;
+}
+.main{
+    color: rgb(1, 0, 71);
+    background-color: bisque;
+    text-align: center;
+}
+.footer{
+    
+    background-color: brown;
+    text-align: center;
+
+}
+header.box{
+    color: rgb(0, 68, 128);
+}
+main.box{
+    color: rgb(1, 0, 71);
+}
+footer.box{
+    color: rgb(255, 172, 172);
+}
